@@ -1,0 +1,18 @@
+.container{
+    margin-top: 200px;
+    width: 70%;
+    padding: 50px;
+    border-radius: 10px;
+    background: #f8eaea59;
+}
+
+.container button{
+    background: pink;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.container button:hover{
+    background: rgb(250, 152, 168);
+}

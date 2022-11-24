@@ -1,0 +1,30 @@
+.container{
+    background: #fff;
+    width: 280px;
+    padding: 5px;
+    /* display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;  */
+    border-radius: 5px;
+    margin-left: 20px;
+    /* justify-content: flex-start; */
+}
+
+.container input{
+    background: none;
+    border: none;
+    outline: 0px;
+}
+
+.btn{
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+    border-radius: 10px;
+}
+
+.btn:hover {
+    background-color: #008CBA;
+    color: white;
+}
